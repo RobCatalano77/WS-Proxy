@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "http-proxy": "^1.18.1"
+    "express": "^4.17.3",
+    "http-proxy": "^1.18.1",
+    "path": "^0.12.7",
+    "websocket": "^1.0.34"
   }
 }
